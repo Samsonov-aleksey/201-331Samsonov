@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sources">
+        <file>testfiles/passwords.json</file>
+        <file>resources/img/search-icon_21x13.png</file>
+        <file>resources/styles/styles.qss</file>
+        <file>testfiles/password_enc.json</file>
+    </qresource>
+</RCC>

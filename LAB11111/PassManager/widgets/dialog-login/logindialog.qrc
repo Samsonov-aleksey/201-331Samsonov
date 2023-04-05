@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>./resources/img/circle_exit.png</file>
+        <file>./resources/img/circle_exit_hover.png</file>
+        <file>./resources/img/cross_exit_10x10.png</file>
+        <file>./resources/img/maximize_button_8x8.png</file>
+        <file>./resources/img/path.png</file>
+        <file>./resources/img/visibility_24px.png</file>
+        <file>./resources/img/visibility_hover_24px.png</file>
+        <file>./resources/img/visibility_off_24px.png</file>
+        <file>./resources/img/visibility_off_hover_24px.png</file>
+        <file>./resources/img/visibility_off_press_24px.png</file>
+        <file>./resources/img/visibility_press_24px.png</file>
+        <file>./resources/img/warning_24px.png</file>
+        <file>./resources/img/warning_overflow_journal.png</file>
+    </qresource>
+</RCC>
